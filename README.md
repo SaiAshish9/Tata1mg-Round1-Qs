@@ -2,10 +2,10 @@
 
 # Q1
 
-Edit Distance
-https://leetcode.com/problems/edit-distance/
+Maximal Square
+https://leetcode.com/problems/maximal-square
 
 # Q2
 
-Maximal Sqaure
-https://leetcode.com/problems/maximal-square
+Edit Distance
+https://leetcode.com/problems/edit-distance/
